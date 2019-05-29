@@ -1,6 +1,4 @@
-# crud_axios
-
-## Project setup
+### Project setup
 ```
 npm install
 ```
