@@ -1,8 +1,8 @@
 ### Requirements
 ```
-VueJS
-Npm
-JSON Server
+1. VueJS
+2. Npm
+3. JSON Server
 ```
 ### Project setup
 ```
