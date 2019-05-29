@@ -4,9 +4,13 @@
 ```
 npm install
 ```
-### Run JSON Server (API)
+### Setup JSON Server
 ```
 npm i json-server
+```
+### Running JSON Server (API)
+```
+json-server Api.json
 ```
 ### Compiles and hot-reloads for development
 ```
