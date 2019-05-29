@@ -1,3 +1,9 @@
+### Requirements
+```
+VueJS
+Npm
+JSON Server
+```
 ### Project setup
 ```
 npm install
